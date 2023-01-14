@@ -1,0 +1,6 @@
+TB686,Los Angeles,San Francisco,1
+DS838,Hong Kong,Toronto,1
+YD356,Tokyo,Los Angeles,2
+IV588,Toronto,Texas,1
+RN631,Toronto,Vancouver,1
+VI627,La La Land,DisneyLand,123
